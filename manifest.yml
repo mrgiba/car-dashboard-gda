@@ -4,7 +4,7 @@ declared-services:
     label: conversation
     plan: free
   speech-to-text-service:
-    label: speech_to_text
+    label: speech-to-text-service-standard
     plan: standard
   text-to-speech-service:
     label: text_to_speech
